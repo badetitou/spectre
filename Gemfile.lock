@@ -2,7 +2,7 @@ GIT
   remote: https://github.com/badetitou/spectre_client.git
   revision: 28245d13e506e5c3d6eaa6796b2cfc297b59d2c7
   specs:
-    spectre_client (0.1.87)
+    spectre_client (0.1.89)
       rest-client (~> 1.8.0)
 
 GEM
