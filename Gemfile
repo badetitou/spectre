@@ -54,5 +54,5 @@ group :demo_test_run do
   gem 'poltergeist'
   gem 'rmagick'
   gem 'rspec'
-  gem 'spectre_client', git: 'https://github.com/wearefriday/spectre_client.git'
+  gem 'spectre_client', git: 'https://github.com/badetitou/spectre_client.git'
 end
